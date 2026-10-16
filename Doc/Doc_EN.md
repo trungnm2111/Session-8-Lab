@@ -1,20 +1,3 @@
-# Linux OS Overview & Kernel Module/Driver Basics
-
-> **Session 8** — Linux Kernel Programming
-> Core concepts of the Linux operating system: the user space/kernel space split, the kernel's major subsystems, kernel modules and device drivers.
-
-## Table of Contents
-
-1. [What Is an Operating System?](#1-what-is-an-operating-system)
-2. [Linux and Its Main Components](#2-linux-and-its-main-components)
-3. [User Space vs. Kernel Space](#3-user-space-vs-kernel-space)
-4. [Linux Kernel Components Overview](#4-linux-kernel-components-overview)
-5. [Linux Kernel Modules (LKM)](#5-linux-kernel-modules-lkm)
-6. [Drivers: Bridging Hardware and the Kernel](#6-drivers-bridging-hardware-and-the-kernel)
-7. [Module Lifecycle](#7-module-lifecycle)
-
----
-
 ## 1. What Is an Operating System?
 
 At its core, an **operating system** (OS) is a special piece of software that sits between the hardware and the programs/users. It manages all of the computer's resources (CPU, RAM, disks, peripherals) and provides an environment in which other programs can run.
